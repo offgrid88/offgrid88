@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **bash Linux python3 Networking**
 
-- 📫 How to reach me **aymenrachdi@cpu-isimm.space**
+- 📫 How to reach me **contact@aymenrachdi.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
