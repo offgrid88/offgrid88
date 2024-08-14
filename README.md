@@ -34,6 +34,8 @@ Hobbies: Reading, Writing, Distrohopping and Ricing
 ---
 ---
 ---
+---
+---
 ### About Me
 
 I am a passionate embedded systems developer with a deep affinity for tinkering with hardware from a software perspective. Combining my love for programming and hardware, I create innovative and powerful products. My main operating system is Linux, which I explore extensively using languages like C, Python, and various shell scripts.
