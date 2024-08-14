@@ -60,7 +60,7 @@ I have strong interests in electronics, robotics, and IoT, enabling me to push t
 - **Hardware:** ESP32
 - **Buildsystems:** Make, Yocto
 - **Languages:** C, Shell, Python
-- **Learning:** Rust
+- **Learning:** Go
 
 ### Hobbies
 
