@@ -21,7 +21,7 @@ Hardware: ESP32
 Buildsystems: Make, Yocto
 Languages: C, Shell,
            Python
-Learning: Go
+Learning: Rust
 Hobbies: Reading, Writing, Distrohopping and Ricing
 ```
 
